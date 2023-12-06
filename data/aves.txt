@@ -1,0 +1,3 @@
+QUERO-QUERO;         P;         AMERICAS
+CORVO;         P;         TODOS
+HARPIA;         G;         AMERICA DO SUL
